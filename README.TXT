@@ -10,3 +10,4 @@ VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
 USER INSTRUCTIONS:
+The files that are uploaded into the repository are the shapes like circle, square, person, Triangle and canvas. I believe they are the only files that are visible because github cant do anything with the extra information the other files provide.
